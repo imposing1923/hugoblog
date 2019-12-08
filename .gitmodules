@@ -1,0 +1,4 @@
+[submodule "imposing1923.github.io"]
+	path = imposing1923.github.io
+	url = git@github.com:imposing1923/imposing1923.github.io.git
+	branch = master
